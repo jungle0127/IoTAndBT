@@ -6,5 +6,5 @@ http://www.itgemini.net/en/itfuwu/28-shuangzixinwen/redianxinxi/308-qukuailian.h
 
 This article talked about BT could provider security solution for IoT.
 
-Test git merge
-learning git merge
+## Git Merge:
+https://www.cnblogs.com/baby123/p/6588378.html
